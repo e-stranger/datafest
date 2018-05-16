@@ -1,5 +1,5 @@
-Optimal Markets for Unskilled Workers
-By John Atherton, Dominique McDonald, and James Lo
+# Optimal Markets for Unskilled Workers
+## By John Atherton, Dominique McDonald, and James Lo
 
 We set out to create a measurement to judge the quality of regional low-skilled labor markets. As the United States has transitioned from a manufacturing to a service economy, many well-paid low-skilled jobs have been lost to cheaper overseas competition while real wages for American workers have barely kept up with inflation, even as GDP and productivity rose significantly. The cost of living has also increased as well. 
 
