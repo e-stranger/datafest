@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
-fullmerged.csv
+*.csv
+*.html
+project_data/county_living_wage.csv
